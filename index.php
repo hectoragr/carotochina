@@ -49,6 +49,7 @@
 
 
 <!--includes javascript at the bottom so the page loads faster-->
+<script type="text/javascript" charset="utf-8" src="js/jquery.min.js"></script>
 <script type="text/javascript" charset="utf-8" src="js/furatto.min.js"></script>
 
 <!--loads analytics-->
