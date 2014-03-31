@@ -17,7 +17,7 @@
 ?>
 <!-- /HEAD -->
 <div class="row">
-  <h1 class="text-center">Caro to China</h1>
+  <h1 class="text-center">About</h1>
 </div>
 
 <!-- FOOTER -->

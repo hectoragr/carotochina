@@ -1,0 +1,9 @@
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymlinks
+#Options +SymLinksIfOwnerMatch
+RewriteEngine on
+
+#RewriteRule ^inicio index.php
+RewriteRule ^about about.php
+RewriteRule ^fondea fondea.php
+RewriteRule ^contacto contacto.php
